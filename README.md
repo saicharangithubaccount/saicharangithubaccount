@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+[<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -37,3 +37,46 @@
 </div>
 
 ###
+](https://profile-readme-generator.com/
+https://readme.so/
+https://githubprofile.com/
+
+# H1 - Largest Heading
+## H2 - Subheading
+### H3 - Smaller Heading
+#### H4
+##### H5
+###### H6 - Smallest Heading
+
+**Bold Text**  
+*Italic Text*  
+~~Strikethrough~~  
+**_Bold & Italic_**
+
+- Item 1
+- Item 2
+  - Subitem 1
+  - Subitem 2
+
+  1. First item
+  2. Second item
+     1. Sub-item
+     2. Sub-item
+
+     [GitHub](https://github.com/mohamedasif)
+     ![Alt Text](https://via.placeholder.com/150)
+     > This is a blockquote.  
+     > Used for highlighting important information.
+
+     | Name      | Role       | Experience |
+     |-----------|-----------|------------|
+     | Asif      | SDET      | 5+ years   |
+     | John Doe  | Developer | 3+ years   |
+
+     - [x] Completed Task
+     - [ ] Pending Task
+     - [ ] Another Pending Task
+
+     🚀 :rocket: | ❤️ :heart: | ✅ :white_check_mark: | 📝 :memo:
+     ![GitHub Repo Stars](https://img.shields.io/github/stars/mohamedasif/myrepo?style=social)
+)
